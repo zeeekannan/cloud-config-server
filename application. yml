@@ -1,4 +1,4 @@
-microservices:
+microservice:
   payment-service:
     endpoints:
       endpoint:
